@@ -1,0 +1,18 @@
+*HTML5 New Features:
+	new input types of element:
+		date, email,URL,color,Datalist,nuber
+
+eg. <input type= email, ...>
+
+New Atrributes:
+autofocus
+autocomplete
+formaction
+formmethod
+novalidate-validate fields(text box)
+formnovalidate
+
+
+audio and video
+canvas
+Geolocation-used to locate user's position
